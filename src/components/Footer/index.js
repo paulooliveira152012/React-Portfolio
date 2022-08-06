@@ -1,5 +1,6 @@
 import React from "react";
 import ContactMe from "../../pages/ContactMe";
+import "./style.css"
 
 
 function Footer() {

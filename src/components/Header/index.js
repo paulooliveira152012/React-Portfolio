@@ -1,12 +1,11 @@
 import React from "react";
-import Nav from "../Navigation"
+import "./style.css"
 
 function Header() {
     return (
         <header>
       <div>
         <h1>Paulo Oliveira</h1>
-        <Nav></Nav>
       </div>
     </header>
     )
