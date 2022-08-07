@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# React Portfolio
+![badge](https://img.shields.io/badge/license-MIT-green)
+![badge](https://img.shields.io/github/last-commit/paulooliveira152012/React-Portfolio)
+- [instalation](#instalation)
+- [usage](#usage)
+- [contribution](#contribution)
+- [tests](#tests)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+  ## description 
+  React Portfolio is a web-application that renders a single page portfolio website composed of various components.
+  
+  ## instalation
+  Clone repository into local machine, install dependencies: react, react-dom, react-scripts, and web-vitals, and finaly run "npm start" on terminal.
 
-In the project directory, you can run:
+  ## usage
+  The application is used to display a single page portfolio react application.
 
-### `npm start`
+  ## license
+  MIT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## contribution
+  Paulo Oliveira
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ## tests
+  NPM tests for components
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+  ![Finished and deployed web-application] (https://paulooliveira152012.github.io/horiseon-2-/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![GitHub-repository] (https://github.com/paulooliveira152012/React-Portfolio)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Component Screen-shot
+![Component ScreenShot](src/assets/images/screenshot/component.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+CSS Screen-shot
+![CSS ScreenShot](src/assets/images/screenshot/css.png)
 
-### `npm run eject`
+app.js Screen-shot
+![App](src/assets/images/screenshot/app.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deployed application Screen-shot
+![Depployed app](src/assets/images/screenshot/deployedapp.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
