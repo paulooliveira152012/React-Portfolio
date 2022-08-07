@@ -1,15 +1,19 @@
 import React from "react";
+import "./style.css";
+import avatar from "../../assets/images/avatar.jpg";
 
 function AboutMe() {
     return (
         <section class="aboutMe" id="aboutMe">
 
-        <aside>
+        
           <h2>About Me</h2>
-        </aside>
+        
         <div class="container">
           <article>
-            <img src="assets/IMG_1992.jpg" alt="" />
+            
+             <img src={avatar} alt="avatar" className="image" />
+            
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero
               veritatis debitis autem ipsa natus voluptatum aut velit? Sapiente,

@@ -1,0 +1,24 @@
+:root {
+    --main-bg-color:#32353D;
+    --main-text-color: #91CBCC;
+    --secondary-text-color: white;
+}
+
+a {
+    color:var(--main-text-color);
+
+}
+
+/* type selector applying style to the ul in the header section */
+.nav ul {
+    display: flex;
+    list-style: none;
+    float: right;
+    padding-right: 50px;
+}
+
+/* type selector applying style to the li in the header section */
+.nav li {
+    margin-left: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,33 @@
+.portfolio {
+    margin: 100px;   
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+.portfolio li {
+    margin: 20px;
+}
+
+.runbuddy {
+    background-image: url(../../assets/images/runbuddy.jpeg);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+.horiseon {
+    background-image: url(../../assets/images/horiseon.jpg);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
+
+.NEE {
+    background-image: url(../../assets/images/NEE.jpeg);
+    width: 200px;
+    height: 100px;
+    background-size: cover;
+}
