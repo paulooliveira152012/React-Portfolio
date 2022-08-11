@@ -31,3 +31,11 @@ ul {
     height: 100px;
     background-size: cover;
 }
+
+.listenup {
+    background-image: url(../../assets/images/listenup.png);
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    background-size: cover;
+}

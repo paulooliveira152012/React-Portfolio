@@ -29,6 +29,11 @@ function Project () {
               <div class="title">North Eastern Events</div>
             </a>
             </li>
+
+            <li className="listenup"> <a href="https://young-shelf-44589.herokuapp.com/" target="_blank" class="project" id="listenup">
+              <div class="title">ListenUp</div>
+            </a>
+            </li>
           
           </ul>
         </div>
